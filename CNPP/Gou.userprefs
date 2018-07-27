@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{40646263-CBCA-422C-B1FE-27D108A0C21B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Gou/Program.cs">
+    <Files>
+      <File FileName="Gou/Program.cs" Line="1" Column="14" />
+      <File FileName="Gou/MockRepository.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Gou PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

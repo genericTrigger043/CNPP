@@ -1,0 +1,5 @@
+/home/dorian/Projects/Gou/Gou/bin/Debug/Gou.exe
+/home/dorian/Projects/Gou/Gou/bin/Debug/Gou.pdb
+/home/dorian/Projects/Gou/Gou/obj/x86/Debug/Gou.csproj.CoreCompileInputs.cache
+/home/dorian/Projects/Gou/Gou/obj/x86/Debug/Gou.exe
+/home/dorian/Projects/Gou/Gou/obj/x86/Debug/Gou.pdb
