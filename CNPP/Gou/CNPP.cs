@@ -39,7 +39,6 @@ namespace CNPP
             waiter.WaitOne();
             Console.WriteLine("The ping command has ended.");
             Console.ReadKey();
-
         }
 
         private static void PingCompletedCallback(object sender, PingCompletedEventArgs e)
@@ -64,8 +63,6 @@ namespace CNPP
             dpa(answer);
 
             ((AutoResetEvent)e.UserState).Set();
-
-
         }
 
         private static void dpa(PingReply answer)
